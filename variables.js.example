@@ -1,0 +1,4 @@
+var host = "";
+var port = 8080;
+var userName = "";
+var password = "";
