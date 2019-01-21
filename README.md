@@ -1,2 +1,2 @@
 # Toilet-Sensor
-The code for the toilet sensor from @coolmindsNL
+The code for the toilet occupency sensor website https://istheppooperocupied.com
